@@ -137,6 +137,6 @@ a{
 }
 
 .angela{
-    font-size: 80%;
-    border-radius: 100%;
+    /* font-size: 80%; */
+    border-radius: 50%;
 }
